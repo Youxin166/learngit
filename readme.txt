@@ -5,3 +5,4 @@ Git鼓励大量使用分支： 查看分支：git branch 创建分支：git bran
 <<<<<<< HEAD
 Creating a new branch is quick &  simple.
 
+Add meger
